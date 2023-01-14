@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="rightColors">
+        <item>@color/purple_200</item>
+        <item>@color/purple_500</item>
+        <item>@android:color/holo_red_light</item>
+    </integer-array>
+
+    <integer-array name="leftColors">
+        <item>@color/purple_200</item>
+        <item>@color/purple_500</item>
+        <item>@color/purple_700</item>
+    </integer-array>
+
+    <integer-array name="rightTextColors">
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+    </integer-array>
+
+    <integer-array name="rightDrawables">
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+    </integer-array>
+
+    <integer-array name="rightDrawableColors">
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+    </integer-array>
+
+    <integer-array name="leftDrawables">
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+        <item>@drawable/ic_launcher_foreground</item>
+    </integer-array>
+
+    <integer-array name="leftDrawableColors">
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+        <item>@android:color/white</item>
+    </integer-array>
+
+    <string-array name="rightTexts">
+        <item>reload</item>
+        <item>settings</item>
+        <item>trash</item>
+    </string-array>
+
+    <integer-array name="mail_right_icons">
+        <item>@drawable/ic_github</item>
+        <item>@drawable/ic_baseline_flag_24</item>
+        <item>@drawable/ic_baseline_delete_24</item>
+    </integer-array>
+
+    <integer-array name="mail_right_colors">
+        <item>@color/purple_200</item>
+        <item>@color/purple_700</item>
+        <item>@android:color/holo_red_light</item>
+    </integer-array>
+
+    <integer-array name="mail_left_colors">
+        <item>@color/purple_500</item>
+    </integer-array>
+
+    <integer-array name="mail_left_icons">
+        <item>@drawable/ic_baseline_email_24</item>
+    </integer-array>
+
+    <integer-array name="mail_left_icon_colors">
+        <item>@color/white</item>
+    </integer-array>
+
+</resources>
